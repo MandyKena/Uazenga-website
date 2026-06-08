@@ -1,0 +1,40 @@
+body {
+  font-family: Arial;
+  background: #fef6e9;
+  color: #333;
+  text-align: center;
+}
+h1 {
+  color: #8b4513;
+  border-bottom:2px solide #cd853f;
+}
+
+img{
+  max-width: 400px;
+  height: auto;
+  margin: 15px 0;
+  border-radius: 6px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;  
+}
+
+.left {
+  display: block;
+  margin-right: auto;
+}
+
+.right {
+  display: block;
+  margin-left: auto;
+}
+
+ul {
+  background: #fff3e0;
+  padding: 15px 25px;
+  border-radius: 6px;
+}
